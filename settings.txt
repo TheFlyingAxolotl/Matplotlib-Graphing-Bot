@@ -1,0 +1,30 @@
+*Piechart*
+Shadow: False
+Gap: False
+
+*Bar chart*
+Position: vertical
+Average: off
+Annotations: off
+
+*Grouped bar chart*
+Width: 0.2
+Edgecolor: black
+Alpha: 0.35
+
+*Histogram* 
+Edgecolor: none
+Alpha: 0.25
+Average: off
+Histtype: stepfilled
+
+*Line*
+Average: off
+
+*Scatter*
+Size: 15
+Marker: o
+Edgecolor: none
+Bestfit_line: off
+
+Grid: off

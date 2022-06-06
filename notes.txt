@@ -1,0 +1,4 @@
+For bar graphs, leave no gap between the last value of x_data and 
+num_y.
+
+For line graphs, leave 2 spaces between the title and extra_data.
